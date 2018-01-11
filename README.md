@@ -1,2 +1,2 @@
-# GC79XK8
-Alejandro G. Campanas
+# layar
+Para las capas de layar
