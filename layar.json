@@ -6,8 +6,8 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.062188, 
-          "lon": -96.725716
+          "lat": 39.593948, 
+          "lon": 2.669487
         }
       }, 
       "icon": {
@@ -15,16 +15,16 @@
       },
       "id": 1, 
       "text": {
-        "title": "Museo de los Pintores Oaxaqueños",
-        "description": "El Museo de los Pintores Oaxaqueños se crea con la finalidad de ofrecer un espacio abierto al desarrollo contemporáneo de las artes plásticas y gráficas en la entidad, ofreciendo exposiciones que promuevan y difundan la obra de artistas oaxaqueños y generen un foro crítico e incluyente a las distintas maneras de hacer y apreciar el arte",
+        "title": "Motor Mallorca",
+        "description": "Descripcion Motor Mallorca",
         "footnote": "Powered by Layar" 
       }
     },
   {
       "anchor": {
         "geolocation": {
-          "lat": 17.060663, 
-          "lon": -96.722993
+          "lat": 39.593321,  
+          "lon": 2.670214
         }
       }, 
       "icon": {
@@ -32,8 +32,8 @@
       },
       "id": 2, 
       "text": {
-        "title": "Museo Textil de Oaxaca",
-        "description": "El Museo Textil de Oaxaca ofrece una visión sobre los textiles oaxaqueños, de México y del mundo",
+        "title": "Aparcamiento publico",
+        "description": "Descripcion del aparcamiento publico",
         "footnote": "Powered by Layar" 
       }
     }
@@ -41,8 +41,8 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.066002, 
-          "lon": -96.721690
+          "lat": 39.593394, 
+          "lon": 2.668281
         }
       }, 
       "icon": {
@@ -50,16 +50,16 @@
       },
       "id": 3, 
       "text": {
-        "title": "Museo de Filatelia de Oaxaca",
-        "description": "El Museo de la Flilatelia de Oaxaca (MUFI) es un recinto museográfico de la ciudad de Oaxaca, Oaxaca, dedicado a la difusión de la filatelia y el coleccionismo.",
+        "title": "Hierros y Aceros",
+        "description": "Descripcion Hierros y Aceros",
         "footnote": "Powered by Layar"
       }
     },
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.063229,
-          "lon": -96.724257 
+          "lat": 39.591984, 
+          "lon": 2.669747
         }
       }, 
       "icon": {
@@ -67,16 +67,16 @@
       },
       "id": 4, 
       "text": {
-        "title": "MUSEO DE ARTE CONTEMPORÁNEO DE OAXACA (MACO)",
-        "description": "Colección de obras plásticas oaxaqueña, nacional e internacional.",
+        "title": "Son Fusteret",
+        "description": "Descripcion Son Fusteret",
         "footnote": "Powered by Layar"
       }
     },
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.065947, 
-          "lon": -96.723284
+          "lat": 39.591776, 
+          "lon": 2.667554
         }
       }, 
       "icon": {
@@ -84,16 +84,16 @@
       },
       "id": 5, 
       "text": {
-        "title": "Museo de las Culturas de Oaxaca, Santo Domingo",
-        "description": "El Centro Cultural Santo Domingo es un conjunto arquitectónico que fue abierto al público el 24 de julio de 1998 y pertenece al Museo de las Culturas de Oaxaca .",
+        "title": "Fundacio San Joan de Deu",
+        "description": "Descripcion Fundacion San Joan de Deu",
         "footnote": "Powered by Layar"
       }
     },
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.063407, 
-          "lon": -96.726942
+          "lat": 39.598470, 
+          "lon": 2.667904
         }
       }, 
       "icon": {
@@ -101,8 +101,8 @@
       },
       "id": 6, 
       "text": {
-        "title": "Museo de Arte Prehispanico de México Rufino Tamayo",
-        "description": "El Museo de Arte Prehispánico de México Rufino Tamayo, abrió sus puertas al público el 29 de Enero de 1974. Su existencia obedece al gran deseo del eminente pintor Oaxaqueño de dar a la obra del mexicano antiguo, la categoría de arte que le había sido negada.",
+        "title": "Moto Nautica Balear",
+        "description": "Descripcion Moto Nautica Balear",
         "footnote": "Powered by Layar"
       }
     }
