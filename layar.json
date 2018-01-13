@@ -13,6 +13,7 @@
       "icon": {
         "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera1.jpg"
       },
+      scaledSize: [20,30],
       "id": 1, 
       "text": {
         "title": "BANDERA 1 / FLAG 1",
