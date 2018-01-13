@@ -156,7 +156,24 @@
         "description": "BANDERA 9 / FLAG 9",
         "footnote": "Powered by P0lux" 
       }
-    } 
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.364468,   
+          "lon": 2.874397
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera10.jpg"
+      },
+      "id": 10, 
+      "text": {
+        "title": "BANDERA 10 / FLAG 10",
+        "description": "BANDERA 10 / FLAG 10",
+        "footnote": "Powered by P0lux" 
+      }
+    }
   ], 
   "layer": "museosh5r9"
 }
