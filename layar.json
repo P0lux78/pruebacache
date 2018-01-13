@@ -106,6 +106,57 @@
         "footnote": "Powered by P0lux"
       }
     }
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.365310,
+          "lon": 2.872921
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera7.jpg"
+      },
+      "id": 7, 
+      "text": {
+        "title": "BANDERA 7 / FLAG 7",
+        "description": "BANDERA 7 / FLAG 7",
+        "footnote": "Powered by P0lux"
+      }
+    }
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.364831,
+          "lon": 2.872495
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera8.jpg"
+      },
+      "id": 8, 
+      "text": {
+        "title": "BANDERA 8 / FLAG 8",
+        "description": "BANDERA 6 / FLAG 6",
+        "footnote": "Powered by P0lux"
+      }
+    }
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.364702,
+          "lon": 2.872714
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera9.jpg"
+      },
+      "id": 9, 
+      "text": {
+        "title": "BANDERA 9 / FLAG 9",
+        "description": "BANDERA 9 / FLAG 9",
+        "footnote": "Powered by P0lux"
+      }
+    }
   ], 
   "layer": "GC79XK8"
 }
