@@ -6,18 +6,18 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 39.593948,
-          "lon": 2.669487
+          "lat": 39.364855,
+          "lon": 2.873121
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/1.jpg"
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera 4.jpg"
       },
       "id": 1, 
       "text": {
-        "title": "Motor Mallorca",
-        "description": "Descripcion Motor Mallorca",
-        "footnote": "Powered by Layar" 
+        "title": "BANDERA 4 / FLAG 4",
+        "description": "BANDERA 4 / FLAG 4",
+        "footnote": "Powered by P0lux" 
       }
     },
   {
