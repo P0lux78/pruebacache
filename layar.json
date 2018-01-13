@@ -6,6 +6,58 @@
     {
       "anchor": {
         "geolocation": {
+          "lat": 39.364977,
+          "lon": 2.872973
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera1.jpg"
+      },
+      "id": 1, 
+      "text": {
+        "title": "BANDERA 1 / FLAG 1",
+        "description": "BANDERA 1 / FLAG 1",
+        "footnote": "Powered by P0lux" 
+      }
+    },
+  {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.364499,
+          "lon": 2.873486
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera2.jpg"
+      },
+      "id": 2, 
+      "text": {
+        "title": "BANDERA 2 / FLAG 2",
+        "description": "BANDERA 2 / FLAG 2",
+        "footnote": "Powered by P0lux" 
+      }
+    }
+    ,
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.364547,
+          "lon": 2.872375
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera3.jpg"
+      },
+      "id": 3, 
+      "text": {
+        "title": "BANDERA 3 / FLAG 3",
+        "description": "BANDERA 3 / FLAG 3",
+        "footnote": "Powered by P0lux"
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
           "lat": 39.364855,
           "lon": 2.873121
         }
@@ -13,97 +65,45 @@
       "icon": {
         "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera4.jpg"
       },
-      "id": 1, 
+      "id": 4, 
       "text": {
         "title": "BANDERA 4 / FLAG 4",
         "description": "BANDERA 4 / FLAG 4",
-        "footnote": "Powered by P0lux" 
-      }
-    },
-  {
-      "anchor": {
-        "geolocation": {
-          "lat": 39.593321,
-          "lon": 2.670214
-        }
-      }, 
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/2.jpg"
-      },
-      "id": 2, 
-      "text": {
-        "title": "Aparcamiento publico",
-        "description": "Descripcion del aparcamiento publico",
-        "footnote": "Powered by Layar" 
-      }
-    }
-    ,
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 39.593394,
-          "lon": 2.668281
-        }
-      }, 
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/3.jpg"
-      },
-      "id": 3, 
-      "text": {
-        "title": "Hierros y Aceros",
-        "description": "Descripcion Hierros y Aceros",
-        "footnote": "Powered by Layar"
+        "footnote": "Powered by P0lux"
       }
     },
     {
       "anchor": {
         "geolocation": {
-          "lat": 39.591984,
-          "lon": 2.669747
+          "lat": 39.365016,
+          "lon": 2.873022
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/4.png"
-      },
-      "id": 4, 
-      "text": {
-        "title": "Son Fusteret",
-        "description": "Descripcion Son Fusteret",
-        "footnote": "Powered by Layar"
-      }
-    },
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 39.591776,
-          "lon": 2.667554
-        }
-      }, 
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/5.jpg"
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera5.jpg"
       },
       "id": 5, 
       "text": {
-        "title": "Fundacio San Joan de Deu",
-        "description": "Descripcion Fundacion San Joan de Deu",
-        "footnote": "Powered by Layar"
+        "title": "BANDERA 5 / FLAG 5",
+        "description": "BANDERA 5 / FLAG 5",
+        "footnote": "Powered by P0lux"
       }
     },
     {
       "anchor": {
         "geolocation": {
-          "lat": 39.598470,
-          "lon": 2.667904
+          "lat": 39.365020,
+          "lon": 2.873555
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/6.jpg"
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/master/bandera6.jpg"
       },
       "id": 6, 
       "text": {
-        "title": "Moto Nautica Balear",
-        "description": "Descripcion Moto Nautica Balear",
-        "footnote": "Powered by Layar"
+        "title": "BANDERA 6 / FLAG 6",
+        "description": "BANDERA 6 / FLAG 6",
+        "footnote": "Powered by P0lux"
       }
     }
   ], 
