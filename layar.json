@@ -173,6 +173,23 @@
         "description": "BANDERA 10 / FLAG 10",
         "footnote": "Powered by P0lux" 
       }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.36329,
+          "lon": 2.8733312
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/pruebacache/master/mail.jpg"
+      },
+      "id": 11 
+      "text": {
+        "title": "MAIL",
+        "description": "MAIL",
+        "footnote": "Powered by P0lux" 
+      }
     }
   ], 
   "layer": "museosh5r9"
