@@ -190,7 +190,7 @@
         "description": "MAIL",
         "footnote": "Powered by P0lux" 
       },
-      {
+    {
       "anchor": {
         "geolocation": {
           "lat": 39.364781,
@@ -206,7 +206,7 @@
         "description": "ULTIMOS3",
         "footnote": "Powered by P0lux" 
       }
-    }
+    
   ], 
   "layer": "museosh5r9"
 }
