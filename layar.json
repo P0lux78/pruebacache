@@ -189,6 +189,22 @@
         "title": "MAIL",
         "description": "MAIL",
         "footnote": "Powered by P0lux" 
+      },
+      {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.364781,
+          "lon": 2.874457
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/pruebacache/master/Ultimos3.png"
+      },
+      "id": 12, 
+      "text": {
+        "title": "ULTIMOS3",
+        "description": "ULTIMOS3",
+        "footnote": "Powered by P0lux" 
       }
     }
   ], 
